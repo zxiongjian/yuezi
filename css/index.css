@@ -1,0 +1,103 @@
+
+*{
+	padding: 0px;
+	margin: 0px;
+	list-style: none;
+
+}
+html,body{
+	text-align: center;
+}
+.box{
+	width:100%;
+	height: 400px;
+	background: #cdcdcd;
+	margin: 120px auto;
+}
+img{
+	width: 100%;
+	overflow: hidden;
+	vertical-align: middle;
+
+}
+p{
+	margin:50px 20px;
+	text-align: center;
+	font-size: 13px;
+}
+
+.two{
+	text-align: center;
+}
+h3{
+	font-size: 30px;
+}
+h6{
+	font-weight: normal;
+	font-size: 10px;
+}
+.two ul{
+	width: 100%;
+}
+.two ul li{
+	padding:40px;
+	width:40%;
+	float: left;
+}
+.two ul li p{
+	
+	text-align:inherit;
+	font-size:25px;
+}
+.three{
+
+	text-align:center;
+}
+
+.four{
+	width: 100%;
+
+}
+h4{
+
+	color: #74c5be;
+}
+.four{
+	margin-top:50px;
+}
+.four_a{
+	
+	width: 100%;
+}
+.four_a1{
+	float: left;
+	margin-top:50px;
+	width:50%
+}
+.four_a1 img{
+	width: 100%;
+}
+
+.four_a1 h4{
+	font-size: 40px;
+	margin-top:20px;
+	margin-bottom:-40px;
+}
+.four_a1 p{
+	font-size:26px;
+}
+.five_a{
+	margin:30px 10px;
+}
+.six{
+
+	width: 100%;
+}
+.six > ul{
+	margin:40px 20px;
+}
+.six > ul > li{
+	margin:8px;
+	float:left;
+	width: 47%;
+}
